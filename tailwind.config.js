@@ -6,10 +6,18 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        poppins: ['Poppins', 'sans-serif'],
-      },
       colors: {
+        whisper: {
+          100: "#fcfcfc",
+          200: "#f8f8f8",
+          300: "#f5f5f5",
+          400: "#f1f1f1",
+          500: "#eeeeee",
+          600: "#bebebe",
+          700: "#8f8f8f",
+          800: "#5f5f5f",
+          900: "#303030"
+        },
         blackPearl: {
           100: "#d0d1d3",
           200: "#a2a4a7",
