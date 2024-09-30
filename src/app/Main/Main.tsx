@@ -22,7 +22,7 @@ export function Main() {
           </button>
         </div>
       </div>
-      <div>
+      <div className='ml-auto'>
         <img src={computer} alt=""/>
       </div>  
     </div>

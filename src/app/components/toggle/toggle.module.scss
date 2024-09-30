@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toggle-dark {
+    background-image: linear-gradient(to right, white 50%, black 50%);
+    background-size: 150% 100%;
+    background-position: left bottom;
+    transition: 300ms;
+}
+
+.toggle-light {
+    background-image: linear-gradient(to right, white 50%, black 50%);
+    background-size: 150% 100%;
+    background-position: right bottom;
+    transition: 300ms;
+}
