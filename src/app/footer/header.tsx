@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <div className='text-orange-700'>
       
-      <h1>Welcome to HelloWorld!</h1>
+      {/* <h1>Welcome to HelloWorld!</h1> */}
       
     </div>
   );

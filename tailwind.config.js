@@ -41,6 +41,9 @@ export default {
           900: "#1d1f33"
         },
       },
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+      },
     },
   },
   plugins: [],
